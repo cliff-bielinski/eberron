@@ -3,6 +3,10 @@
 ---
 
 # Journal
-[[Quests + Questions\|Quests + Questions]] | [[Characters\|Characters]] | [[Templates/Lore\|Lore]]
+[[Quests\|Quests]] | [[Trackers/Characters\|Characters]] | [[Trackers/Battles\|Battles]]
 
-test
+| §                                | Chronicle ([[Trackers/Chronicles\|see all]])                                            |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| [[Journal/Sessions/001\|001]] | Six wayward souls find themselves at the hottest theatrical event of the year. |
+
+{ .block-language-dataview}
