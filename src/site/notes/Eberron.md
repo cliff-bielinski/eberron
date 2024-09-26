@@ -3,6 +3,6 @@
 ---
 
 # Journal
-[[Quests + Questions\|Quests + Questions]] | [[Characters\|Characters]] | [[Lore\|Lore]]
+[[Quests + Questions\|Quests + Questions]] | [[Characters\|Characters]] | [[Templates/Lore\|Lore]]
 
 test
