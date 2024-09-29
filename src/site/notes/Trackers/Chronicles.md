@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/trackers/chronicles/"}
 ---
 
-| Session                          | Chronicle                                                                      |
-| -------------------------------- | ------------------------------------------------------------------------------ |
-| [[Journal/Sessions/001\|001]] | Six wayward souls find themselves at the hottest theatrical event of the year. |
+| §                                | Session    | Chronicle                                                                      |
+| -------------------------------- | ---------- | ------------------------------------------------------------------------------ |
+| [[Journal/Sessions/001\|001]] | Five Lives | Six wayward souls find themselves at the hottest theatrical event of the year. |
 
 { .block-language-dataview}
 
