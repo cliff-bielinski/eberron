@@ -5,7 +5,6 @@
 > [!info]+
 > **DECEASED**
 > Deceased Changeling Female
-> `=this.location`
 > 
 > A changeling killed during a play.
 > 
