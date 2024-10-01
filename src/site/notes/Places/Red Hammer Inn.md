@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/places/red-hammer-inn/"}
 ---
 
-![[sharn-tavern-cogs-day.webm]]
+![red-hammer-inn.webp](/img/user/z_attachments/red-hammer-inn.webp)
 
 > [!INFO]
 > A warforged-run tavern in the Cogs

@@ -7,9 +7,11 @@
 > [!INFO]
 > Rowdy entertainment district for the lower class
 ## Inhabitants
-| Character                            | Role               | Ancestry | Age   | Gender |
-| ------------------------------------ | ------------------ | -------- | ----- | ------ |
-| [[Characters/Ironfoot\|Ironfoot]] | Rival Cage Fighter | Dwarf    | Adult | Male   |
+| Character                                          | Role                           | Ancestry   | Age     | Gender |
+| -------------------------------------------------- | ------------------------------ | ---------- | ------- | ------ |
+| [[Characters/Angelica Mediri\|Angelica Mediri]] | Surviving Sister               | Changeling | Adult   | Female |
+| [[Characters/Grimnir\|Grimnir]]                 | Seasoned Theatre Troupe Member | Changeling | Elderly | Male   |
+| [[Characters/Ironfoot\|Ironfoot]]               | Rival Cage Fighter             | Dwarf      | Adult   | Male   |
 
 { .block-language-dataview}
 ## Locations

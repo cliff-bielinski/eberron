@@ -1,14 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/places/truffs-n-stuff/"}
+{"dg-publish":true,"permalink":"/places/lower-tavick-s-landing/"}
 ---
 
-![truffs-n-stuff.webp](/img/user/z_attachments/truffs-n-stuff.webp)
+![sharn_lower-tavicks2.webp](/img/user/z_attachments/sharn_lower-tavicks2.webp)
 
 > [!INFO]
-> A potion shop of ill repute in High Walls
+> Lower class district most notable for the Cyran refugee neighborhood High Walls.
 ## Inhabitants
 | Character | Role | Ancestry | Age | Gender |
 | --------- | ---- | -------- | --- | ------ |
+
+{ .block-language-dataview}
+## Locations
+| Place                                        | Description                               |
+| -------------------------------------------- | ----------------------------------------- |
+| [[Places/Truffs n Stuff\|Truffs n Stuff]] | A potion shop of ill repute in High Walls |
 
 { .block-language-dataview}
 ## Happenings
