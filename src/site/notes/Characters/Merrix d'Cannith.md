@@ -2,15 +2,19 @@
 {"dg-publish":true,"permalink":"/characters/merrix-d-cannith/"}
 ---
 
-> [!info]+
-> **Dragonmarked Inventor**
-> Adult Human Male
-> Sharn
-> 
-> A Dragonmarked inventor and member of House Cannith
-> 
-> ![merrix.webp|300](/img/user/z_attachments/merrix.webp)
+> [!infobox|wsmall txt-s]
+> # Merrix d'Cannith
+> ![merrix.webp](/img/user/z_attachments/merrix.webp) 
+> [[merrix.webp|Show Image]]
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Human |
+> | Gender | Male |
+> | Factions | House Cannith |
 
+>[!info] A Dragonmarked inventor and member of House Cannith
 | §                                | Interactions                                                                                                                                                                                                                                                                   |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Journal/Sessions/001\|001]] | #HouseCannith [[Characters/Talos\|Talos]] and his date [[Characters/Starla\|Starla]] had their tickets to the play stolen! [[Characters/Merrix d'Cannith\|Merrix d'Cannith]] rescues Talos with a spare ticket (spurning Starla).                                                                                                                |
