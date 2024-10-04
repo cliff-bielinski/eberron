@@ -11,7 +11,7 @@
 > | Age | Adult |
 > | Ancestry | Warforged |
 > | Gender | Male |
-> | Factions | `=this.faction` |
+> | Factions | No known |
 
 >[!info] A "reforged" who appreciates the finer things in life.
 

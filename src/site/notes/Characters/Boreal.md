@@ -11,7 +11,7 @@
 > | Age | 3 1/2 Years Old |
 > | Ancestry | Warforged |
 > | Gender | Male |
-> | Factions | `=this.faction` |
+> | Factions | No known |
 
 >[!info] A kinetic warforged who wants to leave behind humanity
 

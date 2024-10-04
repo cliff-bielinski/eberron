@@ -11,7 +11,7 @@
 > | Age | Adult |
 > | Ancestry | Warforged |
 > | Gender | Male |
-> | Factions | `=this.faction` |
+> | Factions | No known |
 
 >[!info] A warforged wanting to head to the Mournlands
 

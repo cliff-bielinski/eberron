@@ -1,16 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/lore/house-cannith/"}
+{"dg-publish":true,"permalink":"/characters/talos-d-lyrandar/"}
 ---
 
 > [!infobox|wsmall txt-s]
-> # House Cannith
-> ![cannith.webp](/img/user/z_attachments/cannith.webp) 
-> # Known Members
->  - [[Characters/Merrix d'Cannith\|Merrix d'Cannith]]
-> 
-{ .block-language-dataview}
+> # Talos d'Lyrandar
+> ![talos.webp](/img/user/z_attachments/talos.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Half-Elf |
+> | Gender | Male |
+> | Class | Magus |
+> | Player | Jason |
+> | Factions | [[Lore/House Lyrandar\|House Lyrandar]] |
 
->[!info] A human Dragonmarked House whose members are well known for their innovation and advancements in technology.
+>[!info] Dragonmarked heir of House Lyrandar and party animal
 
 | §                                | Interactions                                                                                                                                                                                                                                                                              |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

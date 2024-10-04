@@ -5,9 +5,10 @@
 ![lower_menthis.webp](/img/user/z_attachments/lower_menthis.webp)
 > [!INFO] Rowdy entertainment district for the lower class
 ## Places
-| Place                                          | Description                           |
-| ---------------------------------------------- | ------------------------------------- |
-| [[Places/Thundering Flea\|Thundering Flea]] | A tavern where organized brawls occur |
+| Place                                          | Description                                        |
+| ---------------------------------------------- | -------------------------------------------------- |
+| [[Places/Thundering Flea\|Thundering Flea]] | A tavern where organized brawls occur              |
+| [[Places/Glum Gryphon\|Glum Gryphon]]       | A lively Lower Menthis tavern with many performers |
 
 { .block-language-dataview}
 ## Happenings

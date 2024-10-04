@@ -4,9 +4,10 @@
 
 ![eberron-splash-art.webp](/img/user/z_attachments/eberron-splash-art.webp)
 # Journal
-**[[Trackers/Chronicles\|Chronicles]] | [[Quests\|Quests]] | [[Trackers/Characters\|Characters]] | [[Trackers/Battles\|Battles]]**
+**[[Trackers/Chronicles\|Chronicles]] | [[Trackers/Quests\|Quests]] | [[Trackers/Characters\|Characters]] | [[Trackers/Battles\|Battles]]**
 | §                                | Chronicle ([[Trackers/Chronicles\|see all]]) |
 | -------------------------------- | ----------------------------------- |
+| [[Journal/Sessions/002\|002]] | Tea and Bag                         |
 | [[Journal/Sessions/001\|001]] | Five Lives                          |
 
 { .block-language-dataview}
@@ -24,7 +25,7 @@
 > **[[Characters/Nazari\|Nazari]]**
 > ![nazari_square.png](/img/user/z_attachments/nazari_square.png)
 > 
-> **[[Characters/Talos\|Talos]]**
+> **[[Characters/Talos d'Lyrandar\|Talos d'Lyrandar]]**
 > ![talos_square.jpg](/img/user/z_attachments/talos_square.jpg)
 > 
 > **[[Characters/Zelandris\|Zelandris]]**

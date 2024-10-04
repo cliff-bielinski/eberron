@@ -11,7 +11,7 @@
 > | Age | Adult |
 > | Ancestry | Dwarf |
 > | Gender | Male |
-> | Factions | `=this.faction` |
+> | Factions | No known |
 
 >[!info] Tavern brawler whose name is a misnomer
 

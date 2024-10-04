@@ -1,26 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/characters/jacopo/"}
+{"dg-publish":true,"permalink":"/characters/eskridge-callaway/"}
 ---
 
 > [!infobox|wsmall txt-s]
-> # Jacopo
-> ![jacopo.webp](/img/user/z_attachments/jacopo.webp) 
+> # Eskridge Callaway
+> ![callaway-eskridge.webp](/img/user/z_attachments/callaway-eskridge.webp) 
 > ###### At a Glance...
 > | Attribute | Stat |
 > | ---- | ---- |
-> | Age | Adult |
-> | Ancestry | Gnome |
+> | Age | Middle-Aged |
+> | Ancestry | Human |
 > | Gender | Male |
-> | Class | Alchemist |
-> | Player | Keith |
 > | Factions | No known |
 
->[!info] A gnome in debt with shady connections
+>[!info] Detective for the Sharn city guard
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Journal/Sessions/002\|002]] | #TerrorInSharn [[Characters/Jacopo\|Jacopo]] searches the raving mad man who unleashed the bag of undead in the theatre. He learns that the man is a Karrnathi named [[Characters/Wultram Kazkov\|Wultram Kazkov]]. [[Characters/Zelandris\|Zelandris]] attempts to mind link with Wultram and is rebuffed by an entity telling him he has no place in this man's mind.                                                                                              |
 | [[Journal/Sessions/002\|002]] | #TerrorInSharn #BoromarClan The Sharn city guard arrive, including the detective [[Characters/Eskridge Callaway\|Eskridge Callaway]] and the journalist [[Characters/Monty Applebee\|Monty Applebee]]. [[Characters/Jacopo\|Jacopo]] hides the bag of holding that was used to unleash the undead. The detectives are suspicious of the party after [[Characters/Cinder\|Cinder]] mentions the now missing bag. [[Characters/Gustavo\|Gus]] pulls strings and convinces the guards to let the issue slide. |
-| [[Journal/Sessions/001\|001]] | #BoromarClan [[Characters/Jacopo\|Jacopo]] deals with customers at [[Places/Truffs n Stuff\|Truffs n Stuff]] in [[Places/Lower Tavick's Landing\|Lower Tavick's Landing]]. He is visited by [[Characters/Gustavo\|Gustavo]], a member of the [[Lore/Boromar Clan\|Boromar Clan]]. Gus shakes him down for money owed and invites him to the Five Lives play.                                                                                                                                                     |
 
 { .block-language-dataview}

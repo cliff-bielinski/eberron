@@ -11,7 +11,7 @@
 > | Age | Adult |
 > | Ancestry | Warforged |
 > | Gender | Male |
-> | Factions | `=this.faction` |
+> | Factions | No known |
 
 >[!info] Eccentric warforged co-owner of the Red Hammer Inn
 

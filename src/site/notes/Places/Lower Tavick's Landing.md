@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/places/lower-tavick-s-landing/"}
 ---
 
-![sharn_lower-tavicks2.webp](/img/user/z_attachments/sharn_lower-tavicks2.webp)
+![lower-tavicks.jpg](/img/user/z_attachments/lower-tavicks.jpg)
 
 > [!INFO] Lower class district most notable for the Cyran refugee neighborhood High Walls.
 ## Places

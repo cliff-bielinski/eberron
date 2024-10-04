@@ -11,7 +11,7 @@
 > | Age | 3 1/2 Year Old |
 > | Ancestry | Warforged |
 > | Gender | Female |
-> | Factions | `=this.faction` |
+> | Factions | No known |
 
 >[!info] A kinetic warforged seeking an escape from Sharn
 

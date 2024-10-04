@@ -11,7 +11,7 @@
 > | Age | Adult |
 > | Ancestry | Changeling |
 > | Gender | Female |
-> | Factions | `=this.faction` |
+> | Factions | No known |
 
 >[!info] A mourning changeling whose sister was killed during a play
 
