@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/places/thelanis/"}
 ---
 
-> [!INFO] One of the thirteen planes, closely associated with the Fey
+> [!INFO] One of the thirteen planes filled with untamed expanses. Closely associated with the Feywild.
 ## Places
 | Place | Description |
 | ----- | ----------- |

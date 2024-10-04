@@ -6,13 +6,15 @@
 
 > [!INFO] A crossroads for travelers, traders, and explorers, and includes a host of inns, taverns, shops, and reasonably priced residences.
 ## Places
-| Place | Description |
-| ----- | ----------- |
+| Place                            | Description                              |
+| -------------------------------- | ---------------------------------------- |
+| [[Places/Graywall\|Graywall]] | A insular Karrnathi enclave within Sharn |
 
 { .block-language-dataview}
 ## Happenings
-| §                                | Details                                                                                                                                                                                                                                              |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/002\|002]] | #BoromarClan #TerrorInSharn  [[Characters/Gustavo\|Gustavo]] asks the party to investigate [[Characters/Wultram Kazkov\|Wultram Kazkov]]'s house in Graywall, a Karrnathi neighborhood of [[Places/Middle Tavick's Landing\|Middle Tavick's Landing]]. In particular, Gus wants evidence that Wultram was working for someone else. |
+| §                                | Details                                                                                                                                                                                                                                                                      |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/003\|003]] | The Party take sky coaches to [[Places/Graywall\|Graywall]], a Karrnathi enclave within [[Places/Middle Tavick's Landing\|Middle Tavick's Landing]]. In transit, members of the party learn that [[Characters/Jacopo\|Jacopo]] hates "gobos" and that [[Characters/Cinder\|Cinder]] fought for Cyre - on opposite sides of the War to [[Characters/Nazari\|Nazari]] and [[Characters/Zelandris\|Zelandris]]. |
+| [[Journal/Sessions/002\|002]] | #BoromarClan #TerrorInSharn  [[Characters/Gustavo\|Gustavo]] asks the party to investigate [[Characters/Wultram Kazkov\|Wultram Kazkov]]'s house in [[Places/Graywall\|Graywall]], a Karrnathi neighborhood of [[Places/Middle Tavick's Landing\|Middle Tavick's Landing]]. In particular, Gus wants evidence that Wultram was working for someone else.                     |
 
 { .block-language-dataview}

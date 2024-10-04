@@ -2,10 +2,11 @@
 {"dg-publish":true,"permalink":"/trackers/chronicles/"}
 ---
 
-| Session                          | Chronicle   |
-| -------------------------------- | ----------- |
-| [[Journal/Sessions/002\|002]] | Tea and Bag |
-| [[Journal/Sessions/001\|001]] | Five Lives  |
+| Session                          | Chronicle              |
+| -------------------------------- | ---------------------- |
+| [[Journal/Sessions/003\|003]] | Skulls and Skulduggery |
+| [[Journal/Sessions/002\|002]] | Tea and Bag            |
+| [[Journal/Sessions/001\|001]] | Five Lives             |
 
 { .block-language-dataview}
 

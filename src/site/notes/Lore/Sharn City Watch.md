@@ -1,19 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/characters/monty-applebee/"}
+{"dg-publish":true,"permalink":"/lore/sharn-city-watch/"}
 ---
 
 > [!infobox|wsmall txt-s]
-> # Monty Applebee
-> ![monty-applebee.webp](/img/user/z_attachments/monty-applebee.webp) 
-> ###### At a Glance...
-> | Attribute | Stat |
-> | ---- | ---- |
-> | Age | Adult |
-> | Ancestry | Dwarf |
-> | Gender | Male |
-> | Factions | No known |
+> # Sharn City Watch
+> ![sharn_sigil.png](/img/user/z_attachments/sharn_sigil.png) 
+> # Known Members
+>  - [[Characters/Eskridge Callaway\|Eskridge Callaway]]
+> 
+{ .block-language-dataview}
 
->[!info] Sharn journalist and ugliest man alive
+>[!info] The overarching organization that enforces the laws of the city of Sharn.
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

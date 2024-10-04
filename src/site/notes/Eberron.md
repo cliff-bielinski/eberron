@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/eberron/","pinned":true,"tags":["gardenEntry"]}
 ---
 
-![eberron-splash-art.webp](/img/user/z_attachments/eberron-splash-art.webp)
+![eberron-splash-art.jpg](/img/user/z_attachments/eberron-splash-art.jpg)
 # Journal
 **[[Trackers/Chronicles\|Chronicles]] | [[Trackers/Quests\|Quests]] | [[Trackers/Characters\|Characters]] | [[Trackers/Battles\|Battles]]**
 | §                                | Chronicle ([[Trackers/Chronicles\|see all]]) |
 | -------------------------------- | ----------------------------------- |
+| [[Journal/Sessions/003\|003]] | Skulls and Skulduggery              |
 | [[Journal/Sessions/002\|002]] | Tea and Bag                         |
 | [[Journal/Sessions/001\|001]] | Five Lives                          |
 

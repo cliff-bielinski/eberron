@@ -7,8 +7,8 @@
 ## Places
 | Place                                          | Description                                        |
 | ---------------------------------------------- | -------------------------------------------------- |
-| [[Places/Thundering Flea\|Thundering Flea]] | A tavern where organized brawls occur              |
 | [[Places/Glum Gryphon\|Glum Gryphon]]       | A lively Lower Menthis tavern with many performers |
+| [[Places/Thundering Flea\|Thundering Flea]] | A tavern where organized brawls occur              |
 
 { .block-language-dataview}
 ## Happenings

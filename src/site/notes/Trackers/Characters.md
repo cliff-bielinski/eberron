@@ -15,9 +15,11 @@
 | [[Characters/Gustavo\|Gustavo]]                     | A halfling with criminal connections                                            |
 | [[Characters/Ironfoot\|Ironfoot]]                   | Tavern brawler whose name is a misnomer                                         |
 | [[Characters/Jacopo\|Jacopo]]                       | A gnome in debt with shady connections                                          |
+| [[Characters/Lan Hazal\|Lan Hazal]]                 | A Karrnathi industrialist with facilities in the Cogs                           |
 | [[Characters/Lark\|Lark]]                           | A changeling from Thelanis seeking a way home                                   |
 | [[Characters/Luca\|Luca]]                           | A playwright from Thelanis seeking a way home                                   |
 | [[Characters/Merrix d'Cannith\|Merrix d'Cannith]]   | A Dragonmarked inventor and member of House Cannith                             |
+| [[Characters/Mikhael Fedorov\|Mikhael Fedorov]]     | A Karrnathi member of the Graywall militia                                      |
 | [[Characters/Monty Applebee\|Monty Applebee]]       | Sharn journalist and ugliest man alive                                          |
 | [[Characters/Nazari\|Nazari]]                       | A Brelish twin with psionic abilities who is struggling to move on from the War |
 | [[Characters/Pyramus\|Pyramus]]                     | An aspiring warforged playwright                                                |
@@ -28,7 +30,7 @@
 | [[Characters/Suyamun\|Suyamun]]                     | Riedran ambassador to Breland with psionic proclivities                         |
 | [[Characters/Talos d'Lyrandar\|Talos d'Lyrandar]]   | Dragonmarked heir of House Lyrandar and party animal                            |
 | [[Characters/Wultram Kazkov\|Wultram Kazkov]]       | Crazed Karrnathi man who unleashed an undead attack in Sharn                    |
-| [[Characters/Zaria Lyrandar\|Zaria Lyrandar]]       | The sister of Talos d'Lyrandar who died in the Mourning                         |
+| [[Characters/Zaria d'Lyrandar\|Zaria d'Lyrandar]]   | The sister of Talos d'Lyrandar who died in the Mourning                         |
 | [[Characters/Zelandris\|Zelandris]]                 | Brelish twin with psionic abilities and a passion for helping the downtrodden   |
 
 { .block-language-dataview}
