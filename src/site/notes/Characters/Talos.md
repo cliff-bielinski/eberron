@@ -2,14 +2,20 @@
 {"dg-publish":true,"permalink":"/characters/talos/"}
 ---
 
-> [!info]+
-> **Dragonmarked Magus**
-> Adult Half-Elf Male
-> Party
-> 
-> Dragonmarked heir of House Lyrandar
-> 
-> ![talos.webp|300](/img/user/z_attachments/talos.webp)
+> [!infobox|wsmall txt-s]
+> # Talos
+> ![talos.webp](/img/user/z_attachments/talos.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Half-Elf |
+> | Gender | Male |
+> | Class | Magus |
+> | Player | Jason |
+> | Factions | [[House Lyrandar\|House Lyrandar]] |
+
+>[!info] Dragonmarked heir of House Lyrandar and party animal
 
 | §                                | Interactions                                                                                                                                                    |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

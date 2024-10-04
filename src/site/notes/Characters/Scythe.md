@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/scythe/"}
 ---
 
-> [!info]+
-> **Militant Warforged**
-> Adult Warforged Male
-> Red Hammer Inn,Cogs,Sharn
-> 
-> A warforged wanting to head to the Mournlands
-> 
-> ![scythe.webp|300](/img/user/z_attachments/scythe.webp)
+> [!infobox|wsmall txt-s]
+> # Scythe
+> ![scythe.webp](/img/user/z_attachments/scythe.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Warforged |
+> | Gender | Male |
+> | Factions | `=this.faction` |
+
+>[!info] A warforged wanting to head to the Mournlands
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

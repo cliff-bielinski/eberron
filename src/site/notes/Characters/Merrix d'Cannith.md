@@ -11,7 +11,7 @@
 > | Age | Adult |
 > | Ancestry | Human |
 > | Gender | Male |
-> | Factions | House Cannith |
+> | Factions | [[Lore/House Cannith\|House Cannith]] |
 
 >[!info] A Dragonmarked inventor and member of House Cannith
 

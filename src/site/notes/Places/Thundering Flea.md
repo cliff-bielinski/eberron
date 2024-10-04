@@ -3,16 +3,7 @@
 ---
 
 ![thundering_flea.webp](/img/user/z_attachments/thundering_flea.webp)
-
-> [!INFO]
-> A tavern where organized brawls occur
-> 
-## Inhabitants
-| Character                            | Role               | Ancestry | Age   | Gender |
-| ------------------------------------ | ------------------ | -------- | ----- | ------ |
-| [[Characters/Ironfoot\|Ironfoot]] | Rival Cage Fighter | Dwarf    | Adult | Male   |
-
-{ .block-language-dataview}
+> [!INFO] A tavern where organized brawls occur
 ## Happenings
 | §                                | Details                                                                                                                                                                                                                            |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

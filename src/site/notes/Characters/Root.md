@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/root/"}
 ---
 
-> [!info]+
-> **Kinetic Warforged**
-> 3 1/2 Year Old Warforged Female
-> Red Hammer Inn,Cogs,Sharn
-> 
-> A kinetic warforged seeking an escape from Sharn
-> 
-> ![root.webp|300](/img/user/z_attachments/root.webp)
+> [!infobox|wsmall txt-s]
+> # Root
+> ![root.webp](/img/user/z_attachments/root.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | 3 1/2 Year Old |
+> | Ancestry | Warforged |
+> | Gender | Female |
+> | Factions | `=this.faction` |
+
+>[!info] A kinetic warforged seeking an escape from Sharn
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

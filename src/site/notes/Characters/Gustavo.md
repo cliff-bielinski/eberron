@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/characters/jacopo/"}
+{"dg-publish":true,"permalink":"/characters/gustavo/"}
 ---
 
 > [!infobox|wsmall txt-s]
-> # Jacopo
-> ![jacopo.webp](/img/user/z_attachments/jacopo.webp) 
+> # Gustavo
+> ![gus.webp](/img/user/z_attachments/gus.webp) 
 > ###### At a Glance...
 > | Attribute | Stat |
 > | ---- | ---- |
 > | Age | Adult |
-> | Ancestry | Gnome |
+> | Ancestry | Halfling |
 > | Gender | Male |
-> | Class | Alchemist |
-> | Player | Keith |
-> | Factions | `=this.faction` |
+> | Factions | [[Lore/Boromar Clan\|Boromar Clan]] |
 
->[!info] A gnome in debt with shady connections
+>[!info] A halfling with criminal connections
 
 | §                                | Interactions                                                                                                                                                                                                                                 |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Journal/Sessions/001\|001]] | #BoromarClan [[Characters/Jacopo\|Jacopo]] deals with customers at [[Places/Truffs n Stuff\|Truffs n Stuff]] in [[Places/Lower Tavick's Landing\|Lower Tavick's Landing]]. He is visited by [[Characters/Gustavo\|Gustavo]], a member of the [[Lore/Boromar Clan\|Boromar Clan]]. Gus shakes him down for money owed and invites him to the Five Lives play. |
+| [[Journal/Sessions/001\|001]] | [[Characters/Gustavo\|Gustavo]] knows [[Characters/Zelandris\|Zelandris]] and [[Characters/Nazari\|Nazari]] through odd jobs.                                                                                                                                                                             |
 
 { .block-language-dataview}

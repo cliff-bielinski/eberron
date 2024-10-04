@@ -2,14 +2,20 @@
 {"dg-publish":true,"permalink":"/characters/cinder/"}
 ---
 
-> [!info]+
-> **Kinetic Warforged**
-> 3 1/2 Year Old Warforged Male
-> Party
-> 
-> An experimental warforged with mysterious powers
-> 
-> ![cinder.webp|300](/img/user/z_attachments/cinder.webp)
+> [!infobox|wsmall txt-s]
+> # Cinder
+> ![cinder.webp](/img/user/z_attachments/cinder.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | 3 1/2 Year Old |
+> | Ancestry | Warforged |
+> | Gender | Male |
+> | Class | Druid |
+> | Player | Cliff |
+> | Factions | `=this.faction` |
+
+>[!info] An experimental warforged attuned to the planes
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

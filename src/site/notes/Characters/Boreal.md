@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/boreal/"}
 ---
 
-> [!info]+
-> **Kinetic Warforged**
-> 3 1/2 Year Old Warforged Male
-> Red Hammer Inn,Cogs,Sharn
-> 
-> A kinetic warforged who escaped with Cinder
-> 
-> ![boreal.webp|300](/img/user/z_attachments/boreal.webp)
+> [!infobox|wsmall txt-s]
+> # Boreal
+> ![boreal.webp](/img/user/z_attachments/boreal.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | 3 1/2 Years Old |
+> | Ancestry | Warforged |
+> | Gender | Male |
+> | Factions | `=this.faction` |
+
+>[!info] A kinetic warforged who wants to leave behind humanity
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

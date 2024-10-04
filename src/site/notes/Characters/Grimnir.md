@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/grimnir/"}
 ---
 
-> [!info]+
-> **Seasoned Theatre Troupe Member**
-> Elderly Changeling Male
-> Glum Gryphon,Lower Menthis,Sharn
-> 
-> Leader of a changeling theatre troupe.
-> 
-> ![grimnir.webp|300](/img/user/z_attachments/grimnir.webp)
+> [!infobox|wsmall txt-s]
+> # Grimnir
+> ![grimnir.webp](/img/user/z_attachments/grimnir.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Elderly |
+> | Ancestry | Changeling |
+> | Gender | Male |
+> | Factions | `=this.faction` |
+
+>[!info] Leader of a changeling theatre troupe
 
 | §                                | Interactions                                                                                                                                                                                                    |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/starla/"}
 ---
 
-> [!info]+
-> **Spurned Date**
-> Adult Human(?) Female
-> Sharn
-> 
-> A Sharn socialite whose date abandoned her.
-> 
-> ![npc_unknown.webp|300](/img/user/z_attachments/npc_unknown.webp)
+> [!infobox|wsmall txt-s]
+> # Starla
+> ![npc_unknown.webp](/img/user/z_attachments/npc_unknown.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Human |
+> | Gender | Female |
+> | Factions | `=this.faction` |
+
+>[!info] A Sharn socialite whose date abandoned her
 
 | §                                | Interactions                                                                                                                                                    |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

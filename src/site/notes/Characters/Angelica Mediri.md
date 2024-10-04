@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/angelica-mediri/"}
 ---
 
-> [!info]+
-> **Surviving Sister**
-> Adult Changeling Female
-> Sharn,Lower Menthis,Glum Gryphon
-> 
-> A changeling whose sister was killed during a play
-> 
-> ![angelica.webp|300](/img/user/z_attachments/angelica.webp)
+> [!infobox|wsmall txt-s]
+> # Angelica Mediri
+> ![angelica.webp](/img/user/z_attachments/angelica.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Changeling |
+> | Gender | Female |
+> | Factions | `=this.faction` |
+
+>[!info] A mourning changeling whose sister was killed during a play
 
 | §                                | Interactions                                                                                                                                    |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |

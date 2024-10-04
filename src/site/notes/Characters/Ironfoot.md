@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/ironfoot/"}
 ---
 
-> [!info]+
-> **Rival Cage Fighter**
-> Adult Dwarf Male
-> Thundering Flea,Lower Menthis,Sharn
-> 
-> Tavern brawler whose name is a misnomer
-> 
-> ![ironfoot.webp|300](/img/user/z_attachments/ironfoot.webp)
+> [!infobox|wsmall txt-s]
+> # Ironfoot
+> ![ironfoot.webp](/img/user/z_attachments/ironfoot.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Dwarf |
+> | Gender | Male |
+> | Factions | `=this.faction` |
+
+>[!info] Tavern brawler whose name is a misnomer
 
 | §                                | Interactions                                                                                                                                                                                                                       |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

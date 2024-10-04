@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/crucible/"}
 ---
 
-> [!info]+
-> **Tavern Owner**
-> Adult Warforged Male
-> Red Hammer Inn,Cogs,Sharn
-> 
-> Eccentric and artistic Warforged owner of the Red Hammer Inn
-> 
-> ![crucible.webp|300](/img/user/z_attachments/crucible.webp)
+> [!infobox|wsmall txt-s]
+> # Crucible
+> ![crucible.webp](/img/user/z_attachments/crucible.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Warforged |
+> | Gender | Male |
+> | Factions | `=this.faction` |
+
+>[!info] Eccentric warforged co-owner of the Red Hammer Inn
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

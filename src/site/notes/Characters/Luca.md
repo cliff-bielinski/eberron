@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/luca/"}
 ---
 
-> [!info]+
-> **Fey Playwright**
-> Unknown Age Eladrin Female
-> Sharn
-> 
-> A playwright from Thelanis seeking a way home
-> 
-> ![luca.webp|300](/img/user/z_attachments/luca.webp)
+> [!infobox|wsmall txt-s]
+> # Luca
+> ![luca.webp](/img/user/z_attachments/luca.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Unknown |
+> | Ancestry | Eladrin |
+> | Gender | Female |
+> | Factions | `=this.faction` |
+
+>[!info] A playwright from Thelanis seeking a way home
 
 | §                                | Interactions                                                                                                                                                                                                                                                                   |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

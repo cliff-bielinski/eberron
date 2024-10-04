@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/pyramus/"}
 ---
 
-> [!info]+
-> **Playwright Warforged**
-> Adult Warforged Male
-> Red Hammer Inn,Cogs,Sharn
-> 
-> An aspiring warforged playwright
-> 
-> ![pyramus.webp|300](/img/user/z_attachments/pyramus.webp)
+> [!infobox|wsmall txt-s]
+> # Pyramus
+> ![pyramus.webp](/img/user/z_attachments/pyramus.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Warforged |
+> | Gender | Male |
+> | Factions | `=this.faction` |
+
+>[!info] An aspiring warforged playwright
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

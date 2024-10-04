@@ -3,22 +3,8 @@
 ---
 
 ![cogs.webp](/img/user/z_attachments/cogs.webp)
-
-> [!INFO]
-> An undercity of forges and furnaces beneath Sharn
-## Inhabitants
-| Character                            | Role                 | Ancestry  | Age            | Gender |
-| ------------------------------------ | -------------------- | --------- | -------------- | ------ |
-| [[Characters/Blue\|Blue]]         | Tavern Owner         | Warforged | Adult          | Male   |
-| [[Characters/Boreal\|Boreal]]     | Kinetic Warforged    | Warforged | 3 1/2 Year Old | Male   |
-| [[Characters/Crucible\|Crucible]] | Tavern Owner         | Warforged | Adult          | Male   |
-| [[Characters/Pyramus\|Pyramus]]   | Playwright Warforged | Warforged | Adult          | Male   |
-| [[Characters/Root\|Root]]         | Kinetic Warforged    | Warforged | 3 1/2 Year Old | Female |
-| [[Characters/Scythe\|Scythe]]     | Militant Warforged   | Warforged | Adult          | Male   |
-| [[Characters/Sprocket\|Sprocket]] | Reforged Warforged   | Warforged | Adult          | Male   |
-
-{ .block-language-dataview}
-## Locations
+> [!INFO] An undercity of forges and furnaces beneath Sharn
+### Places
 | Place                                        | Description                        |
 | -------------------------------------------- | ---------------------------------- |
 | [[Places/Red Hammer Inn\|Red Hammer Inn]] | A warforged-run tavern in the Cogs |

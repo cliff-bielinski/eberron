@@ -4,25 +4,7 @@
 
 ![red-hammer-inn.webp](/img/user/z_attachments/red-hammer-inn.webp)
 
-> [!INFO]
-> A warforged-run tavern in the Cogs
-## Inhabitants
-| Character                            | Role                 | Ancestry  | Age            | Gender |
-| ------------------------------------ | -------------------- | --------- | -------------- | ------ |
-| [[Characters/Blue\|Blue]]         | Tavern Owner         | Warforged | Adult          | Male   |
-| [[Characters/Boreal\|Boreal]]     | Kinetic Warforged    | Warforged | 3 1/2 Year Old | Male   |
-| [[Characters/Crucible\|Crucible]] | Tavern Owner         | Warforged | Adult          | Male   |
-| [[Characters/Pyramus\|Pyramus]]   | Playwright Warforged | Warforged | Adult          | Male   |
-| [[Characters/Root\|Root]]         | Kinetic Warforged    | Warforged | 3 1/2 Year Old | Female |
-| [[Characters/Scythe\|Scythe]]     | Militant Warforged   | Warforged | Adult          | Male   |
-| [[Characters/Sprocket\|Sprocket]] | Reforged Warforged   | Warforged | Adult          | Male   |
-
-{ .block-language-dataview}
-## Locations
-| Place | Description |
-| ----- | ----------- |
-
-{ .block-language-dataview}
+> [!INFO] A warforged-run tavern in the Cogs
 ## Happenings
 | §                                | Details                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

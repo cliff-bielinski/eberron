@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/blue/"}
 ---
 
-> [!info]+
-> **Tavern Owner**
-> Adult Warforged Male
-> Red Hammer Inn,Cogs,Sharn
-> 
-> Warforged co-owner of the Red Hammer alongside Crucible
-> 
-> ![blue.webp|300](/img/user/z_attachments/blue.webp)
+> [!infobox|wsmall txt-s]
+> # Blue
+> ![blue.webp](/img/user/z_attachments/blue.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Warforged |
+> | Gender | Male |
+> | Factions | `=this.faction` |
+
+>[!info] Warforged co-owner of the Red Hammer Inn
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

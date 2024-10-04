@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/sprocket/"}
 ---
 
-> [!info]+
-> **Reforged Warforged**
-> Adult Warforged Male
-> Red Hammer Inn,Cogs,Sharn
-> 
-> A warforged who appreciates the finer things in life.
-> 
-> ![sprocket.webp|300](/img/user/z_attachments/sprocket.webp)
+> [!infobox|wsmall txt-s]
+> # Sprocket
+> ![sprocket.webp](/img/user/z_attachments/sprocket.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Warforged |
+> | Gender | Male |
+> | Factions | `=this.faction` |
+
+>[!info] A "reforged" who appreciates the finer things in life.
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

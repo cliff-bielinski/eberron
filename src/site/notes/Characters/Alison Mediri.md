@@ -2,13 +2,18 @@
 {"dg-publish":true,"permalink":"/characters/alison-mediri/"}
 ---
 
-> [!info]+
-> **DECEASED**
-> Deceased Changeling Female
-> 
-> A changeling killed during a play.
-> 
-> ![alison.webp|300](/img/user/z_attachments/alison.webp)
+> [!infobox|wsmall txt-s]
+> # Alison Mediri
+> ![alison.webp](/img/user/z_attachments/alison.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Deceased |
+> | Ancestry | Changeling |
+> | Gender | Female |
+> | Factions | `=this.faction` |
+
+>[!info] A changeling killed during a play.
 
 | §                                | Interactions                                                                                                                                                                                                     |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

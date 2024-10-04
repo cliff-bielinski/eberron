@@ -2,14 +2,20 @@
 {"dg-publish":true,"permalink":"/characters/lark/"}
 ---
 
-> [!info]+
-> **Fey-blooded Sorcerer**
-> Teenager Changeling Female
-> Party
-> 
-> A changeling from Thelanis seeking a way home.
-> 
-> ![lark.webp|300](/img/user/z_attachments/lark.webp)
+> [!infobox|wsmall txt-s]
+> # Lark
+> ![lark.webp](/img/user/z_attachments/lark.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Teenager |
+> | Ancestry | Changeling |
+> | Gender | Female |
+> | Class | Sorcerer |
+> | Player | Elena |
+> | Factions | `=this.faction` |
+
+>[!info] A changeling from Thelanis seeking a way home
 
 | §                                | Interactions                                                                                                                                                                                                                                                                   |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

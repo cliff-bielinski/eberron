@@ -3,18 +3,8 @@
 ---
 
 ![lower_menthis.webp](/img/user/z_attachments/lower_menthis.webp)
-
-> [!INFO]
-> Rowdy entertainment district for the lower class
-## Inhabitants
-| Character                                          | Role                           | Ancestry   | Age     | Gender |
-| -------------------------------------------------- | ------------------------------ | ---------- | ------- | ------ |
-| [[Characters/Angelica Mediri\|Angelica Mediri]] | Surviving Sister               | Changeling | Adult   | Female |
-| [[Characters/Grimnir\|Grimnir]]                 | Seasoned Theatre Troupe Member | Changeling | Elderly | Male   |
-| [[Characters/Ironfoot\|Ironfoot]]               | Rival Cage Fighter             | Dwarf      | Adult   | Male   |
-
-{ .block-language-dataview}
-## Locations
+> [!INFO] Rowdy entertainment district for the lower class
+## Places
 | Place                                          | Description                           |
 | ---------------------------------------------- | ------------------------------------- |
 | [[Places/Thundering Flea\|Thundering Flea]] | A tavern where organized brawls occur |
