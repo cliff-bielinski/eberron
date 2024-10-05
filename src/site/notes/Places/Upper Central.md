@@ -1,16 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/lore/dragonshards/"}
+{"dg-publish":true,"permalink":"/places/upper-central/"}
 ---
 
-> [!infobox|wsmall txt-s]
-> # Dragonshards
-> ![dragonshards.webp](/img/user/z_attachments/dragonshards.webp) 
+![sharn_upper-central.jpg](/img/user/z_attachments/sharn_upper-central.jpg)
 
->[!info] Translucent stones used to enhance the powers of a dragonmark, or in the creation of magic items, artifacts, or constructs. They come in three distinct varieties: Siberys, Khyber and Eberron dragonshards.
+> [!INFO] The most exclusive and expensive area of Sharn's towers, surpassed in the city only by Skyway. It is home to some of the most powerful individuals in Breland.
 
+## Places
+| Place | Description |
+| ----- | ----------- |
+
+{ .block-language-dataview}
+## Happenings
 | §                                | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Journal/Sessions/004\|004]] | #TerrorInSharn #ItsATwinThing Unable to cure Nazari's undead affliction, [[Characters/Nazari\|Nazari]] and [[Characters/Zelandris\|Zelandris]] visit [[Characters/Suyamun\|Suyamun]] at the Riedran embassy in [[Places/Upper Central\|Upper Central]] for help, where he successfully cleanses her disease. The twins tell Suyamun about their exploits at [[Characters/Wultram Kazkov\|Wultram Kazkov]]'s apartment, the [[Lore/Dragonshards\|Dragonshards]], and their interest in [[Characters/Lan Hazal\|Lan Hazal]]. He doesn't have much to offer in information, but vows to look into what sort of person may have sold the dragonshards to Wultram. |
-| [[Journal/Sessions/003\|003]] | #TerrorInSharn The Party find a spellbook alongside three large [[Lore/Dragonshards\|Dragonshards]] in [[Characters/Wultram Kazkov\|Wultram Kazkov]]'s apartment: an Eberron, a Siberys and a Khyber dragonshard. They surmise this was a ritual for summoning undead.                                                                                                                                                                                                                                                                               |
 
 { .block-language-dataview}

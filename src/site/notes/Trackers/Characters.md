@@ -29,6 +29,7 @@
 | [[Characters/Starla\|Starla]]                       | A Sharn socialite whose date abandoned her                                      |
 | [[Characters/Suyamun\|Suyamun]]                     | Riedran ambassador to Breland with psionic proclivities                         |
 | [[Characters/Talos d'Lyrandar\|Talos d'Lyrandar]]   | Dragonmarked heir of House Lyrandar and party animal                            |
+| [[Characters/Vlad\|Vlad]]                           | Karrnathi drinking buddy                                                        |
 | [[Characters/Wultram Kazkov\|Wultram Kazkov]]       | Crazed Karrnathi man who unleashed an undead attack in Sharn                    |
 | [[Characters/Zaria d'Lyrandar\|Zaria d'Lyrandar]]   | The sister of Talos d'Lyrandar who died in the Mourning                         |
 | [[Characters/Zelandris\|Zelandris]]                 | Brelish twin with psionic abilities and a passion for helping the downtrodden   |

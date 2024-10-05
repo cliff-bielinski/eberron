@@ -1,9 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/places/truffs-n-stuff/"}
+{"dg-publish":true,"permalink":"/places/high-walls/"}
 ---
 
-![truffs-n-stuff.webp](/img/user/z_attachments/truffs-n-stuff.webp)
-> [!INFO] A potion shop of ill repute in High Walls
+![lower-tavicks.jpg](/img/user/z_attachments/lower-tavicks.jpg)
+
+> [!INFO] A neighborhood in Sharn that is home to many Cyran refugees.
+
+## Places
+| Place                                        | Description                               |
+| -------------------------------------------- | ----------------------------------------- |
+| [[Places/Truffs n Stuff\|Truffs n Stuff]] | A potion shop of ill repute in High Walls |
+
+{ .block-language-dataview}
 ## Happenings
 | §                                | Details                                                                                                                                                                                                                                                                                                                       |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
