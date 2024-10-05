@@ -7,9 +7,9 @@
 ## Places
 | Place                                          | Description                                                   |
 | ---------------------------------------------- | ------------------------------------------------------------- |
+| [[Places/Diamond Theatre\|Diamond Theatre]] | A theatre in Lower Menthis home to an alleged fey playwright. |
 | [[Places/Glum Gryphon\|Glum Gryphon]]       | A lively Lower Menthis tavern with many performers            |
 | [[Places/Thundering Flea\|Thundering Flea]] | A tavern where organized brawls occur                         |
-| [[Places/Diamond Theatre\|Diamond Theatre]] | A theatre in Lower Menthis home to an alleged fey playwright. |
 
 { .block-language-dataview}
 ## Happenings

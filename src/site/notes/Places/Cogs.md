@@ -5,9 +5,10 @@
 ![cogs.webp](/img/user/z_attachments/cogs.webp)
 > [!INFO] An undercity of forges and furnaces beneath Sharn
 ### Places
-| Place                                        | Description                        |
-| -------------------------------------------- | ---------------------------------- |
-| [[Places/Red Hammer Inn\|Red Hammer Inn]] | A warforged-run tavern in the Cogs |
+| Place                                        | Description                                                  |
+| -------------------------------------------- | ------------------------------------------------------------ |
+| [[Places/Hazal Smelting\|Hazal Smelting]] | A smelting facility in the Cogs owned by Karrnathi Lan Hazal |
+| [[Places/Red Hammer Inn\|Red Hammer Inn]] | A warforged-run tavern in the Cogs                           |
 
 { .block-language-dataview}
 ## Happenings

@@ -4,6 +4,7 @@
 
 | Session                          | Chronicle                                            |
 | -------------------------------- | ---------------------------------------------------- |
+| [[Journal/Sessions/005\|005]] | The Night Shift                                      |
 | [[Journal/Sessions/004\|004]] | Having Fun Isn't Hard When You've Got a Library Card |
 | [[Journal/Sessions/003\|003]] | Skulls and Skulduggery                               |
 | [[Journal/Sessions/002\|002]] | Tea and Bag                                          |

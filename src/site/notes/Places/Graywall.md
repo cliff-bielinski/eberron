@@ -7,8 +7,9 @@
 > [!INFO] A insular Karrnathi enclave within Sharn
 
 ## Places
-| Place | Description |
-| ----- | ----------- |
+| Place                                                  | Description                                         |
+| ------------------------------------------------------ | --------------------------------------------------- |
+| [[Places/Bloody Blade Shrine\|Bloody Blade Shrine]] | A Blood of Vol shrine inside a Mabar manifest zone. |
 
 { .block-language-dataview}
 ## Happenings
