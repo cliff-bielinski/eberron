@@ -7,6 +7,7 @@
 > ![cannith.webp](/img/user/z_attachments/cannith.webp) 
 > # Known Members
 >  - [[Characters/Merrix d'Cannith\|Merrix d'Cannith]]
+> - [[Characters/Pierce\|Pierce]]
 > 
 { .block-language-dataview}
 
