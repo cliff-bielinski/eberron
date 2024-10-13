@@ -4,12 +4,14 @@
 
 | Character                                                | Description                                                                     |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [[Characters/Alastair Buchanan\|Alastair Buchanan]]   | Brelish war hero and member of the King's Swords.                               |
 | [[Characters/Alison Mediri\|Alison Mediri]]           | A changeling killed during a play.                                              |
 | [[Characters/Angelica Mediri\|Angelica Mediri]]       | A mourning changeling whose sister was killed during a play                     |
 | [[Characters/Bargast\|Bargast]]                       | The foreman at Hazal Smelting                                                   |
 | [[Characters/Blue\|Blue]]                             | Warforged co-owner of the Red Hammer Inn                                        |
 | [[Characters/Boreal\|Boreal]]                         | A kinetic warforged who wants to leave behind humanity                          |
 | [[Characters/Cinder\|Cinder]]                         | An experimental warforged attuned to the planes                                 |
+| [[Characters/Constance d'Medani\|Constance d'Medani]] | A member of House Medani investigating the Sharn terror attacks                 |
 | [[Characters/Corwith ir'Cullen\|Corwith ir'Cullen]]   | Noble-born son and member of the elite group the King's Swords.                 |
 | [[Characters/Crucible\|Crucible]]                     | Eccentric warforged co-owner of the Red Hammer Inn                              |
 | [[Characters/Cuppersmug\|Cuppersmug]]                 | Nazari's goblin co-worker at Medieval Times                                     |
@@ -39,6 +41,7 @@
 | [[Characters/Suyamun\|Suyamun]]                       | Riedran ambassador to Breland with psionic proclivities                         |
 | [[Characters/Talos d'Lyrandar\|Talos d'Lyrandar]]     | Dragonmarked heir of House Lyrandar and party animal                            |
 | [[Characters/The Night Shift\|The Night Shift]]       | The skeleton crew leader at Hazal Smelting                                      |
+| [[Characters/Viktor d'Deneith\|Viktor d'Deneith]]     | A dragonmarked heir of House Deneith investigating the terror attacks in Sharn  |
 | [[Characters/Vlad\|Vlad]]                             | Karrnathi drinking buddy                                                        |
 | [[Characters/Wultram Kazkov\|Wultram Kazkov]]         | Crazed Karrnathi man who unleashed an undead attack in Sharn                    |
 | [[Characters/Zaria d'Lyrandar\|Zaria d'Lyrandar]]     | The sister of Talos d'Lyrandar who died in the Mourning                         |

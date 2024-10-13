@@ -1,22 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/lore/house-deneith/"}
+{"dg-publish":true,"permalink":"/characters/alastair-buchanan/"}
 ---
 
 > [!infobox|wsmall txt-s]
-> # House Deneith
-> ![house-deneith.webp](/img/user/z_attachments/house-deneith.webp) 
-> # Known Members
->  - [[Characters/Wultram Kazkov\|Wultram Kazkov]]
-> - [[Characters/Viktor d'Deneith\|Viktor d'Deneith]]
-> 
-{ .block-language-dataview}
+> # Alastair Buchanan
+> ![captain-buchanan.webp](/img/user/z_attachments/captain-buchanan.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Middle-Aged |
+> | Ancestry | Human |
+> | Gender | Male |
+> | Factions | [[Lore/King's Swords\|King's Swords]] |
 
->[!info] A human Dragonmarked House whose members are highly acclaimed mercenaries and bodyguards known for their efficiency and martial skill. 
+>[!info] Brelish war hero and member of the King's Swords.
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Journal/Sessions/007\|007]] | #TerrorInSharn #KingsSwords #HouseDeneith #HouseMedani [[Characters/Jacopo\|Jacopo]] goes to the [[Places/King's Swords Garrison\|King's Swords Garrison]] in [[Places/Upper Central\|Upper Central]], where he questioned by [[Characters/Constance d'Medani\|Constance d'Medani]] and [[Characters/Viktor d'Deneith\|Viktor d'Deneith]] about the [[Places/Diamond Theatre\|Diamond Theatre]] terror attacks and the party's involvement thus far. Jacopo attempts to lie stating a man of "great cunningness", possibly named Castor, stole [[Characters/Wultram Kazkov\|Wultram Kazkov]]'s missing bag of holding. They see through his deception and Jacopo eventually folds. He tells them everything except for the twins' psionic abilities, that [[Characters/Lark\|Contessina]] is a changeling, or that they burglarized [[Characters/Lan Hazal\|Lan Hazal]]'s safe at [[Places/Hazal Smelting\|Hazal Smelting]]. Jacopo learns that war hero Captain [[Characters/Alastair Buchanan\|Alastair Buchanan]] is spearheading the investigation.                           |
+| [[Journal/Sessions/007\|007]] | #TerrorInSharn Back at the [[Places/Glum Gryphon\|Glum Gryphon]], [[Characters/Jacopo\|Jacopo]] reunites with the party and updates them. Some in the party recognize [[Characters/Alastair Buchanan\|Alastair Buchanan]] as a Brelish war hero who lost his arm fighting Karrnathi. [[Characters/Talos d'Lyrandar\|Talos]] reminds the party to **always lawyer up** when dealing with the authorities. The party debate what to do and decide to cooperate/negotiate with the [[Lore/King's Swords\|King's Swords]] in the ongoing investigation.                                                                                                                                                                                                                                                                                                                                                       |
 | [[Journal/Sessions/007\|007]] | #TerrorInSharn #KingsSwords #HouseDeneith #HouseMedani The party meets with [[Characters/Alastair Buchanan\|Captain Buchanan]], [[Characters/Constance d'Medani\|Constance d'Medani]], [[Characters/Viktor d'Deneith\|Viktor d'Deneith]] and [[Characters/Corwith ir'Cullen\|Corwith ir'Cullen]] to negotiate terms. Buchanan offers the party amnesty for prior actions in exchange for infiltrating the [[Places/Bloody Blade Shrine\|Bloody Blade Shrine]]. Buchanan wants the party for this task so that the [[Lore/King's Swords\|King's Swords]] have plausible deniability if things go sour. He gives them "discs" to snap if the city is in danger which will summon King's Swords to their location. He also gives them 200 gold to help finance the infiltration. Buchanan allows the party to review the existing evidence. He is unsure where the Shrine is but knows that [[Characters/Lan Hazal\|Lan Hazal]] has been staying at his apartment in [[Places/Graywall\|Graywall]]. |
-| [[Journal/Sessions/003\|003]] | #TerrorInSharn #HouseDeneith #OrderOfTheEmeraldClaw The Party discovers that [[Characters/Wultram Kazkov\|Wultram Kazkov]] was a former Blademark of [[Lore/House Deneith\|House Deneith]]. They find a receipt for the bag and crossbow from a man named [[Characters/Lan Hazal\|Lan Hazal]], as well as a letter from Lan praising Wultram's service to Karrnathi ideals. [[Characters/Jacopo\|Jacopo]] finds a pendant of the [[Lore/Order of the Emerald Claw\|Order of the Emerald Claw]] and a manifesto espousing Karrnathi supremacy and calling for a return to war.                                                                                                                                                                                                                                                                                                                                                |
 
 { .block-language-dataview}

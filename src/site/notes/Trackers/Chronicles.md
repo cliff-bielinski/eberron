@@ -4,6 +4,7 @@
 
 | Session                          | Chronicle                                            |
 | -------------------------------- | ---------------------------------------------------- |
+| [[Journal/Sessions/007\|007]] | Great Cunningness                                    |
 | [[Journal/Sessions/006\|006]] | Ignus                                                |
 | [[Journal/Sessions/005\|005]] | The Night Shift                                      |
 | [[Journal/Sessions/004\|004]] | Having Fun Isn't Hard When You've Got a Library Card |

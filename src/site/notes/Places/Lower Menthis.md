@@ -9,8 +9,8 @@
 | ---------------------------------------------- | ------------------------------------------------------------- |
 | [[Places/Diamond Theatre\|Diamond Theatre]] | A theatre in Lower Menthis home to an alleged fey playwright. |
 | [[Places/Glum Gryphon\|Glum Gryphon]]       | A lively Lower Menthis tavern with many performers            |
-| [[Places/Thundering Flea\|Thundering Flea]] | A tavern where organized brawls occur                         |
 | [[Places/Medieval Times\|Medieval Times]]   | A place in Sharn where fake knights fight for entertainment   |
+| [[Places/Thundering Flea\|Thundering Flea]] | A tavern where organized brawls occur                         |
 
 { .block-language-dataview}
 ## Happenings

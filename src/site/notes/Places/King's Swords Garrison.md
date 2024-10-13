@@ -1,21 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/places/upper-central/"}
+{"dg-publish":true,"permalink":"/places/king-s-swords-garrison/"}
 ---
 
-![sharn_upper-central.jpg](/img/user/z_attachments/sharn_upper-central.jpg)
+![interrogation-room.webp](/img/user/z_attachments/interrogation-room.webp)
 
-> [!INFO] The most exclusive and expensive area of Sharn's towers, surpassed in the city only by Skyway. It is home to some of the most powerful individuals in Breland.
+> [!INFO] The Sharn headquarters for the elite King's Swords
 
-## Places
-| Place                                                        | Description                                        |
-| ------------------------------------------------------------ | -------------------------------------------------- |
-| [[Places/King's Swords Garrison\|King's Swords Garrison]] | The Sharn headquarters for the elite King's Swords |
-
-{ .block-language-dataview}
 ## Happenings
 | §                                | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Journal/Sessions/007\|007]] | #TerrorInSharn #KingsSwords #HouseDeneith #HouseMedani [[Characters/Jacopo\|Jacopo]] goes to the [[Places/King's Swords Garrison\|King's Swords Garrison]] in [[Places/Upper Central\|Upper Central]], where he questioned by [[Characters/Constance d'Medani\|Constance d'Medani]] and [[Characters/Viktor d'Deneith\|Viktor d'Deneith]] about the [[Places/Diamond Theatre\|Diamond Theatre]] terror attacks and the party's involvement thus far. Jacopo attempts to lie stating a man of "great cunningness", possibly named Castor, stole [[Characters/Wultram Kazkov\|Wultram Kazkov]]'s missing bag of holding. They see through his deception and Jacopo eventually folds. He tells them everything except for the twins' psionic abilities, that [[Characters/Lark\|Contessina]] is a changeling, or that they burglarized [[Characters/Lan Hazal\|Lan Hazal]]'s safe at [[Places/Hazal Smelting\|Hazal Smelting]]. Jacopo learns that war hero Captain [[Characters/Alastair Buchanan\|Alastair Buchanan]] is spearheading the investigation. |
-| [[Journal/Sessions/004\|004]] | #TerrorInSharn #ItsATwinThing Unable to cure Nazari's undead affliction, [[Characters/Nazari\|Nazari]] and [[Characters/Zelandris\|Zelandris]] visit [[Characters/Suyamun\|Suyamun]] at the Riedran embassy in [[Places/Upper Central\|Upper Central]] for help, where he successfully cleanses her disease. The twins tell Suyamun about their exploits at [[Characters/Wultram Kazkov\|Wultram Kazkov]]'s apartment, the [[Lore/Dragonshards\|Dragonshards]], and their interest in [[Characters/Lan Hazal\|Lan Hazal]]. He doesn't have much to offer in information, but vows to look into what sort of person may have sold the dragonshards to Wultram.                                                                                                                                                                                                                                                                     |
 
 { .block-language-dataview}
