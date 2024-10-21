@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/places/mabar/"}
+{"dg-publish":true,"permalink":"/places/shae-tirias-tolai/"}
 ---
 
-> [!INFO] One of the thirteen planes filled with unending darkness. Appropriately known as the Endless Night.
+![feyspire.jpg](/img/user/z_attachments/feyspire.jpg)
+
+> [!INFO] A feyspire in Thelanis that is purportedly the birthplace of elves.
 
 ## Places
 | Place | Description |
@@ -13,7 +15,5 @@
 | §                                | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Journal/Sessions/008\|008]] | #BloodyBladeBreakIn [[Characters/Lark\|Lark]] aids a cultist in killing some undead. After passing a few statues she finds [[Lore/Sovereign Host\|Olladra]] and stabs it. She gets a vision of a wasteland with obsidian spires, reminiscent of a feyspire like the elvish birthplace [[Places/Shae Tirias Tolai\|Shae Tirias Tolai]]. Lark realizes the [[Places/Bloody Blade Shrine\|Bloody Blade Shrine]] might be in a [[Places/Mabar\|Mabaran]] manifest zone. She drinks more blood and sees a vision of a fey court with its flowers wilting and creatures turning to dust. [[Characters/Nazari\|Nazari]] arrives and stops her from stabbing the statue over and over again. |
-| [[Journal/Sessions/008\|008]] | #BloodyBladeBreakIn The party all present their bloodied daggers to gain access to a central cloister. The doors shut and undead can be heard gathering outside. [[Characters/Lan Hazal\|Lan Hazal]] leads a chant and everybody drinks their dagger's blood, clearing their mental fog and the darkness of the [[Places/Mabar\|Mabaran]] manifest zone.                                                                                                                                                                                                                                                    |
-| [[Journal/Sessions/006\|006]] | #TerrorInSharn #BloodOfVol The following day, [[Characters/Lark\|Lark]] heads to [[Places/Morgrave University\|Morgrave University]] library and researches the [[Lore/Blood of Vol\|Blood of Vol]] and the [[Places/Bloody Blade Shrine\|Bloody Blade Shrine]]. She doesn't find out much regarding shrines in [[Places/Sharn\|Sharn]] but learns about the importance of blood in Blood of Vol rituals. She also learns that Seekers rituals manage the destructive impact of [[Places/Mabar\|Mabar]] manifest zones.                                                                                                                                                                                |
 
 { .block-language-dataview}

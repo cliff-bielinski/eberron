@@ -7,6 +7,7 @@
 > ![Blood_of_Vol.webp](/img/user/z_attachments/Blood_of_Vol.webp) 
 > # Known Members
 >  - [[Characters/Lan Hazal\|Lan Hazal]]
+> - [[Characters/Jessel Tarra'az\|Jessel Tarra'az]]
 > 
 { .block-language-dataview}
 

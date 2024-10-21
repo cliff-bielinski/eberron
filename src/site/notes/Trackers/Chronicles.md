@@ -4,6 +4,7 @@
 
 | Session                          | Chronicle                                            |
 | -------------------------------- | ---------------------------------------------------- |
+| [[Journal/Sessions/008\|008]] | The Bloody Blade Shrine                              |
 | [[Journal/Sessions/007\|007]] | Great Cunningness                                    |
 | [[Journal/Sessions/006\|006]] | Ignus                                                |
 | [[Journal/Sessions/005\|005]] | The Night Shift                                      |

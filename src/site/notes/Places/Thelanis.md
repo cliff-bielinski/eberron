@@ -4,8 +4,9 @@
 
 > [!INFO] One of the thirteen planes filled with untamed expanses. Closely associated with the Feywild.
 ## Places
-| Place | Description |
-| ----- | ----------- |
+| Place                                              | Description                                                         |
+| -------------------------------------------------- | ------------------------------------------------------------------- |
+| [[Places/Shae Tirias Tolai\|Shae Tirias Tolai]] | A feyspire in Thelanis that is purportedly the birthplace of elves. |
 
 { .block-language-dataview}
 ## Happenings
