@@ -5,13 +5,13 @@
 ![eberron-splash-art.jpg](/img/user/z_attachments/eberron-splash-art.jpg)
 # Journal
 **[[Trackers/Chronicles\|Chronicles]] | [[Trackers/Quests\|Quests]] | [[Trackers/Characters\|Characters]] | [[Trackers/Battles\|Battles]]**
-| §                                | Chronicle ([[Trackers/Chronicles\|see all]])                  |
-| -------------------------------- | ---------------------------------------------------- |
-| [[Journal/Sessions/008\|008]] | The Bloody Blade Shrine                              |
-| [[Journal/Sessions/007\|007]] | Great Cunningness                                    |
-| [[Journal/Sessions/006\|006]] | Ignus                                                |
-| [[Journal/Sessions/005\|005]] | The Night Shift                                      |
-| [[Journal/Sessions/004\|004]] | Having Fun Isn't Hard When You've Got a Library Card |
+| §                                | Chronicle ([[Trackers/Chronicles\|see all]]) |
+| -------------------------------- | ----------------------------------- |
+| [[Journal/Sessions/009\|009]] | Light My Candle                     |
+| [[Journal/Sessions/008\|008]] | The Bloody Blade Shrine             |
+| [[Journal/Sessions/007\|007]] | Great Cunningness                   |
+| [[Journal/Sessions/006\|006]] | Ignus                               |
+| [[Journal/Sessions/005\|005]] | The Night Shift                     |
 
 { .block-language-dataview}
 # Player Characters
