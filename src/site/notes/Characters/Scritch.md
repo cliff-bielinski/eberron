@@ -1,22 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/lore/daask/"}
+{"dg-publish":true,"permalink":"/characters/scritch/"}
 ---
 
 > [!infobox|wsmall txt-s]
-> # Daask
-> ![daask.webp](/img/user/z_attachments/daask.webp) 
-> # Known Members
->  - [[Characters/Cazha\|Cazha]]
-> - [[Characters/Coldstone\|Coldstone]]
-> - [[Characters/Chib\|Chib]]
-> 
-{ .block-language-dataview}
+> # Scritch
+> ![npc_unknown.webp](/img/user/z_attachments/npc_unknown.webp) 
+> ###### At a Glance...
+> | Attribute | Stat |
+> | ---- | ---- |
+> | Age | Adult |
+> | Ancestry | Shifter |
+> | Gender | Unknown |
+> | Factions | No known |
 
->[!info] A criminal organization composed almost exclusively of monsters from Droaam. 
+>[!info] A Callestan street urchin
 
 | §                                | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Journal/Sessions/011\|011]] | #SayNoToDrugs #Daask [[Characters/Lark\|Gristle]] heads to [[Places/The Dribbling Mug\|The Dribbling Mug]] in [[Places/Callestan\|Callestan]], where he encounters the goblin street urchin [[Characters/Vicky\|Vicky]] and shifter [[Characters/Scritch\|Scritch]]. After providing them food, Gristle asks for [[Characters/Chib\|Chib]], as to get in on the [[Lore/Dreamlily\|Dreamlily]] that the [[Lore/Daask\|Daask]] were moving. Vicky points him to the nearby gargoyle [[Characters/Coldstone\|Coldstone]], who states the product has already been sold, but he would convey Gristle's interest to [[Characters/Cazha\|Cazha]]. |
-| [[Journal/Sessions/004\|004]] | #ThePlightOfPyramus #Daask [[Characters/Lark\|Lark]] becomes worried when [[Characters/Pyramus\|Pyramus]] doesn't return to the [[Places/Glum Gryphon\|Glum Gryphon]]. She transforms into Gristle and heads to [[Places/Callestan\|Callestan]] in [[Places/Lower Dura\|Lower Dura]], where she meets with Gristle's [[Lore/Daask\|Daask]] contacts. She is unable to find out anything useful.                                                                                                                                                                      |
 
 { .block-language-dataview}

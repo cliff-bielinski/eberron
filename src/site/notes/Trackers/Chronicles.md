@@ -4,6 +4,7 @@
 
 | Session                          | Chronicle                                            |
 | -------------------------------- | ---------------------------------------------------- |
+| [[Journal/Sessions/011\|011]] | Daddy Lies, Mommy Hides                              |
 | [[Journal/Sessions/010\|010]] | The Lilypad                                          |
 | [[Journal/Sessions/009\|009]] | Light My Candle                                      |
 | [[Journal/Sessions/008\|008]] | The Bloody Blade Shrine                              |

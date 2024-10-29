@@ -6,8 +6,8 @@
 > # House Cannith
 > ![cannith.webp](/img/user/z_attachments/cannith.webp) 
 > # Known Members
->  - [[Characters/Merrix d'Cannith\|Merrix d'Cannith]]
-> - [[Characters/Pierce\|Pierce]]
+>  - [[Characters/Pierce\|Pierce]]
+> - [[Characters/Merrix d'Cannith\|Merrix d'Cannith]]
 > 
 { .block-language-dataview}
 
