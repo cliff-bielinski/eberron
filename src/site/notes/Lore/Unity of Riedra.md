@@ -12,9 +12,10 @@
 
 >[!info] A distant empire on the continent of Sarlona
 
-| §                                |                                                                                                                                                                       |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/004\|004]] | The twins seek out [[Characters/Suyamun\|Suyamun]] to cure [[Characters/Nazari\|Nazari]]'s undead affliction. They update him about the [[Places/Diamond Theatre\|Diamond Theatre]] investigation.                                   |
-| [[Journal/Sessions/001\|001]] | [[Characters/Zelandris\|Zelandris]] and [[Characters/Nazari\|Nazari]] are twins with psionic abilities. Zelandris dreams of a missing moon. [[Characters/Suyamun\|Suyamun]] from the [[Lore/Unity of Riedra\|Unity of Riedra]] takes an interest in him. |
+| §                                |                                                                                                                                                                                         |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/010\|010]] | The twins disclose their psionic abilities to the party. [[Characters/Jacopo\|Jacopo]] and [[Characters/Talos d'Lyrandar\|Talos]] recognize the powers as common amongst the ruling elite in the [[Lore/Unity of Riedra\|Unity of Riedra]]. |
+| [[Journal/Sessions/004\|004]] | The twins seek out [[Characters/Suyamun\|Suyamun]] to cure [[Characters/Nazari\|Nazari]]'s undead affliction. They update him about the [[Places/Diamond Theatre\|Diamond Theatre]] investigation.                                                     |
+| [[Journal/Sessions/001\|001]] | [[Characters/Zelandris\|Zelandris]] and [[Characters/Nazari\|Nazari]] are twins with psionic abilities. Zelandris dreams of a missing moon. [[Characters/Suyamun\|Suyamun]] from the [[Lore/Unity of Riedra\|Unity of Riedra]] takes an interest in him.                   |
 
 { .block-language-dataview}

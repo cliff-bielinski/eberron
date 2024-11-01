@@ -15,8 +15,8 @@
 
 >[!info] Dragonmarked member who helped procure Dragonshards for Lan Hazal
 
-| §                                | Interactions                                                                                                                                                                                                                            |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/005\|005]] | #TerrorInSharn #HouseTharashk [[Characters/Lark\|Gristle]] returns to the Party with the key and documents from [[Places/Hazal Smelting\|Hazal Smelting]]. The documents include correspondence with [[Characters/Kelthor d'Tharashk\|Kelthor d'Tharashk]] negotiating the purchase of [[Lore/Dragonshards\|Dragonshards]]. |
+| §                                | Interactions                                                                                                                                                                                              |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/005\|005]] | [[Characters/Lark\|Gristle]] returns to the Party with the key and documents from [[Places/Hazal Smelting\|Hazal Smelting]]. The documents include correspondence with [[Characters/Kelthor d'Tharashk\|Kelthor d'Tharashk]] negotiating the purchase of [[Lore/Dragonshards\|Dragonshards]]. |
 
 { .block-language-dataview}

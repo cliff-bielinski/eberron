@@ -15,8 +15,8 @@
 
 >[!info] The skeleton crew leader at Hazal Smelting
 
-| §                                | Interactions                                                                                                                                                                                                                                                                                                        |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/005\|005]] | #TerrorInSharn The Party infiltrates [[Places/Hazal Smelting\|Hazal Smelting]]. They discover the "skeleton crew" are actual skeletons. The crew is run by an undead minion called [[Characters/The Night Shift\|The Night Shift]] and his fiery gremlin Flicker. Using misdirection, the party successfully sneak past the undead and head to [[Characters/Lan Hazal\|Lan Hazal]]'s office. |
+| §                                | Interactions                                                                                                                                                                                                                                                                                         |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/005\|005]] | The Party infiltrates [[Places/Hazal Smelting\|Hazal Smelting]]. They discover the "skeleton crew" are actual skeletons. The crew is run by an undead minion called [[Characters/The Night Shift\|The Night Shift]] and his fiery gremlin Flicker. Using misdirection, the party successfully sneak past the undead and head to [[Characters/Lan Hazal\|Lan Hazal]]'s office. |
 
 { .block-language-dataview}

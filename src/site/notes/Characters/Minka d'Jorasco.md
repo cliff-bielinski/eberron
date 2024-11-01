@@ -15,8 +15,8 @@
 
 >[!info] A Dragonmarked heir and House Jorasco healer in Sharn
 
-| §                                | Interactions                                                                                                                                                                                                                                       |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/009\|009]] | #ShadyShadow #HouseJorasco The party takes [[Characters/Zelandris\|Zelandris]] to see [[Characters/Minka d'Jorasco\|Minka d'Jorasco]] after everything that went down at the [[Places/Bloody Blade Shrine\|Bloody Blade Shrine]]. She gives him a clean bill of health except calls his missing shadow "probably some fey shit." |
+| §                                | Interactions                                                                                                                                                                                                            |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/009\|009]] | The party takes [[Characters/Zelandris\|Zelandris]] to see [[Characters/Minka d'Jorasco\|Minka d'Jorasco]] after everything that went down at the [[Places/Bloody Blade Shrine\|Bloody Blade Shrine]]. She gives him a clean bill of health except calls his missing shadow "probably some fey shit." |
 
 { .block-language-dataview}
