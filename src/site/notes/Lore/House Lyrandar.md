@@ -13,7 +13,7 @@
 
 >[!info] A half-elven Dragonmarked House that possesses the Mark of Storm, granting its bearers the ability to control wind and wave.
 
-| § | Interactions |
-| - | ------------ |
+| § |  |
+| - |  |
 
 { .block-language-dataview}

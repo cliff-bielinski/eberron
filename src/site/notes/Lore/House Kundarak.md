@@ -11,7 +11,7 @@
 
 >[!info] A dwarven Dragonmarked House providing services focused on security and banking.
 
-| § | Interactions |
-| - | ------------ |
+| § |  |
+| - |  |
 
 { .block-language-dataview}

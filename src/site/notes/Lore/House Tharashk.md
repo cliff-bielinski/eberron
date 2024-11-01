@@ -12,8 +12,8 @@
 
 >[!info] A human and half-orc Dragonmarked House renowned as prospectors, bounty hunters, and inquisitives.
 
-| §                                | Interactions                                                                                                                                                                                                                            |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/005\|005]] | #TerrorInSharn #HouseTharashk [[Characters/Lark\|Gristle]] returns to the Party with the key and documents from [[Places/Hazal Smelting\|Hazal Smelting]]. The documents include correspondence with [[Characters/Kelthor d'Tharashk\|Kelthor d'Tharashk]] negotiating the purchase of [[Lore/Dragonshards\|Dragonshards]]. |
+| §                                |                                                                                                                                                                                                                 |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/005\|005]] | (x:: [[Characters/Lark\|Gristle]] returns to the Party with the key and documents from [[Places/Hazal Smelting\|Hazal Smelting]]. The documents include correspondence with [[Characters/Kelthor d'Tharashk\|Kelthor d'Tharashk]] negotiating the purchase of [[Lore/Dragonshards\|Dragonshards]].) |
 
 { .block-language-dataview}

@@ -14,9 +14,9 @@
 
 { .block-language-dataview}
 ## Happenings
-| §                                | Details                                                                                                                                                                                                                                                |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Journal/Sessions/001\|001]] | #UnityOfRiedra #ItsATwinThing [[Characters/Zelandris\|Zelandris]] dreams of a missing moon. He works at Sharn Veterans Administration, where he is invited by [[Characters/Suyamun\|Suyamun]], ambassador from Riedra, to the play "Five Lives" at the [[Places/Diamond Theatre\|Diamond Theatre]] in [[Places/Lower Menthis\|Lower Menthis]]. |
-| [[Journal/Sessions/001\|001]] | #ItsATwinThing [[Characters/Nazari\|Nazari]] fights [[Characters/Ironfoot\|Ironfoot]] at the [[Places/Thundering Flea\|Thundering Flea]] in [[Places/Lower Menthis\|Lower Menthis]]. She gets KO'd in one shot and is patched up by her brother [[Characters/Zelandris\|Zelandris]]. They share a psionic link where they discuss the mysterious [[Characters/Suyamun\|Suyamun]].      |
+| §                                | Details                                                                                                                                                                                                                            |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/001\|001]] | [[Characters/Zelandris\|Zelandris]] dreams of a missing moon. He works at Sharn Veterans Administration, where he is invited by [[Characters/Suyamun\|Suyamun]], ambassador from Riedra, to the play "Five Lives" at the [[Places/Diamond Theatre\|Diamond Theatre]] in [[Places/Lower Menthis\|Lower Menthis]].           |
+| [[Journal/Sessions/001\|001]] | [[Characters/Nazari\|Nazari]] fights [[Characters/Ironfoot\|Ironfoot]] at the [[Places/Thundering Flea\|Thundering Flea]] in [[Places/Lower Menthis\|Lower Menthis]]. She gets KO'd in one shot and is patched up by her brother [[Characters/Zelandris\|Zelandris]]. They share a psionic link where they discuss the mysterious [[Characters/Suyamun\|Suyamun]]. |
 
 { .block-language-dataview}

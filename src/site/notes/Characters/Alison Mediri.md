@@ -15,9 +15,9 @@
 
 >[!info] A changeling killed during a play.
 
-| §                                | Interactions                                                                                                                                                                                                                    |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/001\|001]] | [[Characters/Angelica Mediri\|Angelica Mediri]] and [[Characters/Alison Mediri\|Alison Mediri]] are changeling sisters who play multiple roles in the play. [[Characters/Luca\|Luca]] the playwright greets the crowd.                                                                                 |
-| [[Journal/Sessions/001\|001]] | #TerrorInSharn Five Lives is about the War. Five scenes unfold. At the climactic moment in the final scene, a crossbow bolt hits [[Characters/Alison Mediri\|Alison Mediri]] and kills her. A crazy old man shouts "Death to Breland! Glory to Karrnath!" |
+| §                                | Interactions                                                                                                                                                                                                                                                           |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/001\|001]] | [[Characters/Angelica Mediri\|Angelica Mediri]] and [[Characters/Alison Mediri\|Alison Mediri]] are changeling sisters who play multiple roles in the play. [[Characters/Luca\|Luca]] the playwright greets the crowd.                                                                                                                        |
+| [[Journal/Sessions/001\|001]] | Five Lives is about the War. Five scenes unfold. At the climactic moment in the final scene, a crossbow bolt hits [[Characters/Alison Mediri\|Alison Mediri]] and kills her. A crazy old man shouts "Death to Breland! Glory to Karrnath!" before throwing open a bag of undead at the audience. |
 
 { .block-language-dataview}

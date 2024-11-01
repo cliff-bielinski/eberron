@@ -23,7 +23,7 @@
 | **Olladra** | Feast and Fortune | Entertainers, Risk-Takers | 
 | **Onatar** | Fire and Forge | Artificers, Craftsmen |
 
-| § | Interactions |
-| - | ------------ |
+| § |  |
+| - |  |
 
 { .block-language-dataview}
